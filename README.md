@@ -3,7 +3,7 @@
 ## Applying Pruning to this repository 
 
 
-
+Origin repository maintainted by https://github.com/pierluigiferrari/ssd_keras
 
 
 
